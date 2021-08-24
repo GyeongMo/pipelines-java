@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gmgu/TEST/_apis/build/status/GyeongMo.pipelines-java?branchName=master)](https://dev.azure.com/gmgu/TEST/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
